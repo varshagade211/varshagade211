@@ -3,13 +3,13 @@
 
 
 - 🔭 I’m currently working on my projects
-- 🌱 I’m currently...
+- 🌱 I’m currently learning algorithms
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about soft skills
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/varsha-gade-7b33aa174/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am very happy!
+- ⚡ Fun fact: The first time I ever moved away from home  8,166.56 miles away from my hometown.
 ---
 ### Github stats
 
