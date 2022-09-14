@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on my projects
-- 🌱 I’m currently solving leetcode
+- 🌱 I’m currently...
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about soft skills
