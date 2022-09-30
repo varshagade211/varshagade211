@@ -8,6 +8,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about soft skills
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/varsha-gade-7b33aa174/)
+- :open_file_folder: See my recent work: [Portfolio](https://varshagade211.github.io/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: The first time I ever moved away from home is 8,166.56 miles away from my hometown.
 ---
